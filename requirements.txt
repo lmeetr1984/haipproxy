@@ -21,7 +21,7 @@ docker-compose==1.19.0
 docker-pycreds==0.2.2
 dockerpty==0.4.1
 docopt==0.6.2
-flower==0.9.1
+flower==1.2.0
 google-auth==1.4.1
 hyperlink==17.3.1
 idna==2.6
